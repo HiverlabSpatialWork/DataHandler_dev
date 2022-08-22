@@ -3,7 +3,7 @@ const {
     DB_PASSWORD = '',
     DB_HOST = '127.0.0.1',
     DB_PORT = '3000',
-    DB_NAME = 'data-handler',
+    DB_NAME = 'data-handler-amat',
 } = process.env;
 
 module.exports = {

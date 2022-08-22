@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@ladjs/graceful": "^1.0.5",
+    "@sap/hana-client": "^2.13.22",
     "aedes": "^0.46.3",
     "axios": "^0.23.0",
     "body-parser": "^1.15.0",
